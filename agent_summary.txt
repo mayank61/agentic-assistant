@@ -1,0 +1,1 @@
+This agent can get the system time, get the current weather from the user's IP, generate a QR code from text/URL and embed an image inside it, and write text content to a .txt file.
